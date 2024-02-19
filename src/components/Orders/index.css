@@ -1,0 +1,95 @@
+.order-container {
+  padding: 15px;
+}
+.orders-bg-container {
+  display: flex;
+}
+
+.active-tab-option {
+  background-color: #ffff;
+  border: 5px solid rgb(80, 116, 192);
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  height: 25px;
+  width: 85px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.tab-option {
+  height: 25px;
+  width: 85px;
+  font-size: 10px;
+  border: none;
+}
+.sub-buttons {
+  padding: 5px;
+  background-color: aliceblue;
+  border: 1px solid #000;
+  margin-right: 5px;
+  border-radius: 3px;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-buttons-container {
+  display: flex;
+  justify-content: space-between;
+}
+.sub-button-cont {
+  display: flex;
+}
+.cate-tab-buttons {
+  margin-bottom: 15px;
+}
+
+.refresh-button {
+  background-color: rgb(33, 109, 209);
+  color: #fff;
+  border: none;
+  font-size: 10px;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.sub-icon {
+  font-size: 15px;
+}
+
+.td-head {
+  font-size: 10px;
+  width: 150px;
+}
+.rows-data {
+  font-size: 10px;
+  text-align: center;
+}
+
+.order-num {
+  color: rgb(28, 145, 192);
+}
+
+.operation-dropdown {
+  font-size: 10px;
+}
+
+.pending-sts {
+  color: rgb(29, 78, 61);
+  background-color: rgb(121, 199, 173);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.table-container {
+  margin-top: 10px;
+}
+.table-icon {
+  font-size: 10px;
+}
+
+.page-nation-container {
+  text-align: end;
+  margin-right: 10px;
+}
